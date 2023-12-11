@@ -1,0 +1,28 @@
+@use '../../style/blog.scss';
+
+.button__page {
+	color: white;
+	background-color: #F46F17;
+	display: flex;
+	text-align: center;
+	font-family: PT Root UI;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 100%;
+}
+
+.page_text {
+	font-family: PT Root UI;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 150%;
+}
+.page__title{
+	font-family: PT Root UI;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%;
+}
